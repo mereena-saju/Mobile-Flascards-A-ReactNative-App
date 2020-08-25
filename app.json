@@ -4,9 +4,11 @@
     "slug": "mobile-flashcards",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/flashcard.png",
+    "privacy": "public",
+    "sdkVersion": "38.0.0",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/flashcard.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,6 +18,10 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android":{
+      "package": "com.example.myapp",
+      "versionCode": 1
+    },
     "ios": {
       "supportsTablet": true
     },
