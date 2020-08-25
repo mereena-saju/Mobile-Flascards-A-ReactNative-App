@@ -1,8 +1,8 @@
 # Mobile Flashcards App
 
-This application has been created with React Native.It was the third and final project of the Udacity React Nanodegree Program.
+This application has been created with React Native. It was the third and final project of the Udacity React Nanodegree Program.
 
-In this app that user can save decks of cards and quiz themselves. The user is also notified in the form of local notifications to create cards everyday to keep learning everyday! 
+In this app that user can save decks of cards and quiz themselves. The user is also notified in the form of local notifications to create cards everyday so as to keep learning! 
 
 ## Pre-Requisites
 
